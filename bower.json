@@ -5,6 +5,6 @@
         "require-css": "*"
     },
     "main":         [
-        "renames.json"
+        "overrides.json"
     ]
 }
