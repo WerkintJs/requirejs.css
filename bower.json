@@ -1,10 +1,7 @@
 {
     "name":         "requirejs.css",
     "version":      "0.0.1",
-    "dependencies": {
-        "require-css": "*"
-    },
     "main":         [
-        "overrides.json"
+        "css.js"
     ]
 }
